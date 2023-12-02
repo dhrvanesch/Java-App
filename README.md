@@ -9,5 +9,4 @@ This repository is used in my CI/CD project utilizing:
 * Docker
 * Kubernetes
 
-![background](https://github.com/dhrvanesch/Java-App/assets/13959713/b7a0bb0c-34fb-4129-b88b-b335a3feacb8)
-
+![live](https://github.com/dhrvanesch/Java-App/assets/13959713/a994e3ef-6485-469c-aee4-7391a304926b)
