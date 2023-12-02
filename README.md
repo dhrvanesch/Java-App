@@ -2,9 +2,9 @@
 
 This repository is used in my CI/CD project utilizing:
 
-* git
+* Git
 * Jenkins
-* Maven
+* Apache Maven
 * Ansible
 * Docker
 * Kubernetes
